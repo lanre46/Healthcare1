@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="languages">
+        <item>English</item>
+        <item>French</item>
+        <!-- Add more languages as needed -->
+    </string-array>
+</resources>

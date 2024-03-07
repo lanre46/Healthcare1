@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499052039245",
+    "project_id": "lanre1-project",
+    "storage_bucket": "lanre1-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499052039245:android:b431cd06098ec870362004",
+        "android_client_info": {
+          "package_name": "com.example.myapplication23"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCLEW-ybRR28Q2izKNWRWdgRXQ30fazAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
